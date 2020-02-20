@@ -1,3 +1,7 @@
+<div align="center">
+  <img src ="http://www.icym.edu.my/v13/images/python-developers_b02fb.png" />
+</div>
+
 # How it works
 
 terminal -> python script -> excel spreadsheet
